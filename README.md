@@ -42,7 +42,7 @@ Breve descrição do projeto, destacando seus principais recursos e tecnologias 
 
 ## Estatísticas
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroportilho&show_icons=true&theme=dark)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroportilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ## Contato: 
 Se você tiver alguma pergunta ou quiser entrar em contato comigo, fique à vontade para enviar uma mensagem por meio dos seguintes canais:
