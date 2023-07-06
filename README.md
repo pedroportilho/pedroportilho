@@ -18,10 +18,10 @@ Bem-vindo ao meu perfil do GitHub! Meu nome é Pedro Portilho, sou um estudante 
 
 
 ## Projetos Destacados
-1. Trybe Recipes App
+**1. Trybe Recipes App:** <br/>
 Projeto front end, criando um site que auxilia uma pessoa a achar e fazer receitas culinarias
 
-2. Trybe Futebol Clube
+**2. Trybe Futebol Clube:** <br/>
 Projeto back end, construindo uma API para um site que organiza e modifica campeonatos de futebol
 
 
