@@ -17,6 +17,14 @@ Bem-vindo ao meu perfil do GitHub! Meu nome é Pedro Portilho, sou um estudante 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+## Projetos Destacados
+1. Trybe Recipes App
+Projeto front end, criando um site que auxilia uma pessoa a achar e fazer receitas culinarias
+
+2. Trybe Futebol Clube
+Projeto back end, construindo uma API para um site que organiza e modifica campeonatos de futebol
+
+
 <!-- 
 ## Projetos Destacados
 1. Nome do Projeto 1
